@@ -1,0 +1,80 @@
+.first{
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+ }
+
+ul{
+    display: flex;
+    gap: 25px;
+    }
+li{
+    list-style: none;
+    font-size: larger;
+}
+.about{
+    color: aquamarine;
+    font-weight: 600;
+}
+.logo{width: 200px;
+    height: 50px;
+}
+.image{
+    width: 50px;
+    height: 50px;
+    margin-left: 50%;
+    margin-right: 50%;
+}
+h1{
+    font-size: xx-large;
+    color: aquamarine;
+    text-align: center;
+}
+table{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+td{
+    text-wrap: justify;
+    font-size: large;
+    width: 350px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.container{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.casev{
+    text-align: center;
+    border: 2px solid;
+    width: 300px;
+    height: 350px;
+    background-color:powderblue;
+   border-radius: 5%;
+}
+.caseg{
+    text-align: center;
+    border: 2px solid;
+    width: 250px;
+    height: 350px;
+    background-color:orchid;
+   border-radius: 5%;
+}
+.caseo{
+    text-align: center;
+    border: 2px solid;
+    width: 300px;
+    height: 350px;
+    background-color:burlywood;
+   border-radius: 5%;
+}
+.option2{
+    margin-top: 25px;
+}
